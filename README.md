@@ -130,12 +130,3 @@ Upon logging in, you will be directed to your dashboard. Here, you can:
 2. Click on the "Message" button to initiate a conversation.
 3. Messages are exchanged directly on the platform, making collaboration easy.
 
-## Contributing
-
-We welcome contributions from the open-source community. If you'd like to contribute to DevSearch, please follow our [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. You are free to use and modify the code as per the terms of the license.
-
-Thank you for using DevSearch! We hope you find it a valuable platform for connecting with other developers, showcasing your skills, and collaborating on exciting projects. If you have any questions or encounter issues, please feel free to reach out to our support team.
